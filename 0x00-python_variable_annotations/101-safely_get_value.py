@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
-from typing import Any, Mapping, Union
+""" Module for type-annotated function safely_get_value """
+from typing import Any, Mapping, TypeVar, Union
+
+T = TypeVar('T')
 
 
 def safely_get_value(dct: Mapping,
                      key: Any,
-                     default: Union[Any, None] = None) -> Union[Any, None]:
+                     default: Union[T, None] = None) -> Union[Any, T]:
     """Get value from dictionary safely"""
     if key in dct:
         return dct[key]
