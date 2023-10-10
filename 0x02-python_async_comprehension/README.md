@@ -53,9 +53,9 @@ All your files will be interpreted/compiled on Ubuntu 18.04 LTS using python3 (v
                                                          
 ## ❝ Quote ❞
 
-She can kill all your files;
-She can freeze with a frown.
-And a wave of her hand brings the whole system down.
-And she works on her code until ten after three.
-She lives like a bat but she's always a hacker to me.
-		-- Apologies to Billy Joel
+> `She can kill all your files;`
+> `She can freeze with a frown.`
+> `And a wave of her hand brings the whole system down.`
+> `And she works on her code until ten after three.`
+> `She lives like a bat but she's always a hacker to me.`
+> `     -- Apologies to Billy Joel`
